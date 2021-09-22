@@ -1,7 +1,7 @@
 ﻿<Project>
   <PropertyGroup>
-    <Version>0.9.4</Version>
-    <Authors>Yimeng Wu</Authors>
+    <Version>100.0.0</Version>
+    <Authors>Yimeng Wu - AridTag mod</Authors>
     <Product>ModernWPF UI Library</Product>
   </PropertyGroup>
     
